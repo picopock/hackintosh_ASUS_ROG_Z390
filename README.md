@@ -15,3 +15,7 @@
 | 显示器       | 戴尔 DELA0EC DELL U2718Q ( 27.7 英寸 )                           |
 | 声 卡        | 英特尔 High Definition Audio 控制器                              |
 | 网 卡        | 英特尔 Wireless-AC 9560                                          |
+
+## Theme with 3840 \* 2160 resolution
+
+- [Theme](https://github.com/badruzeus/MyCloverThemes)
