@@ -21,6 +21,53 @@
         ################              主显示器　: 　Dell DELA0EC DELL U2718Q ( 27.7 )
          ####     #####               声卡　　　: 　Intel High Definition Audio Controller
 
-## Theme with 3840 \* 2160 resolution
+## OpenCore Bootloader
 
-- [Theme](https://github.com/badruzeus/MyCloverThemes)
+This EFI is configurated according to [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
+
+- Info
+
+  - version
+    - OpenCore: 0.5.9
+    - Catalina: 10.15.6
+
+- Prerequisites
+
+  - Disable
+    - Fast Boot
+    - Launch CSM
+    - Secure Boot
+      - Key Management
+        - Clear Secure Boot Keys
+    - System Agent(SA) Configuration
+      - VT-d
+    - CFG Lock
+    - Onboard Devices Configuration
+      - Serial Port Configuration
+        - Serial Port: Off
+  - Enable
+    - System Agent(SA) Configuration
+      - Above 4G decoding
+      - Graphics Configuration
+        - Primary Display: CPU Graphics
+        - DVMT Pre-Allocated: 64MB
+    - CPU Configuration
+      - Hyper-Threading
+    - USB Configuration
+      - XHCI Hand-off
+    - Secure Boot
+      - OS type: Windows UEFI Mode
+
+## Clover Bootloader
+
+I have switched to `OpenCore Bootloader`, `clover` will not be maintained later.
+
+- Info
+
+  - version
+    - Clover: 5120
+    - Catalina: 10.15.6
+
+- theme with 3840 \* 2160 resolution
+
+  - [Theme](https://github.com/badruzeus/MyCloverThemes)
