@@ -25,6 +25,8 @@
 
 This EFI is configurated according to [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
 
+> Note: Please backup you system before switch to OpenCore Bootloader
+
 - Info
 
   - version
