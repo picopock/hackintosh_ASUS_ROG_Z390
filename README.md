@@ -66,6 +66,8 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
 I have switched to `OpenCore Bootloader`, `clover` will not be maintained later.
 
+> Note: Don't use EFI-10.15.6, it has some problems
+
 - Info
 
   - version
