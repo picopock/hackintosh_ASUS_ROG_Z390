@@ -32,8 +32,8 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 - Info
 
   - version
-    - OpenCore: 0.5.9
-    - Catalina: 10.15.6
+    - OpenCore: 0.6.3
+    - Catalina: 10.15.7
 
 - Prerequisites
 
