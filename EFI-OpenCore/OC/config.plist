@@ -135,17 +135,17 @@
 				<key>framebuffer-camellia</key>
 				<data>AAAAAA==</data>
 				<key>framebuffer-con0-busid</key>
-				<data>AQAAAA==</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-flags</key>
 				<data>xwMAAA==</data>
 				<key>framebuffer-con0-index</key>
-				<data>AQAAAA==</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-con0-pipe</key>
 				<data>EgAAAA==</data>
 				<key>framebuffer-con0-type</key>
-				<data>AAQAAA==</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con1-busid</key>
 				<data>BAAAAA==</data>
 				<key>framebuffer-con1-enable</key>
@@ -153,13 +153,13 @@
 				<key>framebuffer-con1-flags</key>
 				<data>xwMAAA==</data>
 				<key>framebuffer-con1-index</key>
-				<data>AgAAAA==</data>
+				<data>AwAAAA==</data>
 				<key>framebuffer-con1-pipe</key>
 				<data>EgAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
 				<key>framebuffer-con2-busid</key>
-				<data>BgAAAA==</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-flags</key>
@@ -167,13 +167,13 @@
 				<key>framebuffer-con2-has-lspcon</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-index</key>
-				<data>AwAAAA==</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-pipe</key>
 				<data>EgAAAA==</data>
 				<key>framebuffer-con2-preferred-lspcon-mode</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
+				<data>AAQAAA==</data>
 				<key>framebuffer-con3-busid</key>
 				<data>AAAAAA==</data>
 				<key>framebuffer-con3-enable</key>
@@ -207,7 +207,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-2</string>
 				<key>model</key>
-				<string>Intel UHD Graphics 630 (Desktop 9 Series)</string>
+				<string>Intel UHD Graphics 630</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
