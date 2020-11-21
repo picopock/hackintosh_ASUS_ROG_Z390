@@ -60,6 +60,10 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
     - Secure Boot
       - OS type: Windows UEFI Mode
 
+- USB Mapping
+
+  ![USB Mapping](./usbMap/USB_definition.png)
+
 ## Clover Bootloader
 
 > <span style="color: red; font-weight: bolder">Not maintained </span>
