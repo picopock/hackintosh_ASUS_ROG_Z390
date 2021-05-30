@@ -1,17 +1,17 @@
 # hackintosh-ASUS-ROG-STRIX-Z390-E-GAMING
 
-![Big Sur 11.2.3](./bigSur.png)
+![Big Sur 11.4](./bigSur.png)
 
 ## System Information
 
                                       Azrael’s iMac iMac19,1
                                       ----------------------------------------------
                                       主板型号　: 　ASUS ROG STRIX Z390-E GAMING
-                 ###                  操作系统　: 　11.2.3 20D91
-               ####                   内核版本　: 　Darwin 20.3.0
+                 ###                  操作系统　: 　11.4 20F71
+               ####                   内核版本　: 　Darwin 20.5.0
                ###                    开机时间　: 　25 minutes
        #######    #######             Shell　　: 　/bin/zsh
-     ######################           当前时间　: 　2021年 4月23日 星期五 21时44分03秒
+     ######################           当前时间　: 　2021年 5月30日 星期日 11时35分26秒
     #####################             处理器　　: 　Intel Core i9-9900K 3.60GHz x (16)
     ####################              内存　　　: 　16 GB ( G.Skill DDR4 3200MHz x 2 )
     ####################              磁盘　　　: 　SamSung SSD 970 EVO Plus 500GB
@@ -31,8 +31,8 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.6.8
-    - MacOS: 11.2.3(Big Sur)
+    - OpenCore: 0.6.9
+    - MacOS: 11.4(Big Sur)
 
 - Prerequisites
 
