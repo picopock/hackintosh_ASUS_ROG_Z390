@@ -7,11 +7,11 @@
                                       Azrael’s iMac iMac19,1
                                       ----------------------------------------------
                                       主板型号　: 　ASUS ROG STRIX Z390-E GAMING
-                 ###                  操作系统　: 　11.4 20F71
-               ####                   内核版本　: 　Darwin 20.5.0
-               ###                    开机时间　: 　25 minutes
+                 ###                  操作系统　: 　11.5.1 20G80
+               ####                   内核版本　: 　Darwin 20.6.0
+               ###                    开机时间　: 　15 minutes
        #######    #######             Shell　　: 　/bin/zsh
-     ######################           当前时间　: 　2021年 5月30日 星期日 11时35分26秒
+     ######################           当前时间　: 　2021年 8月14日 星期六 11时00分00秒
     #####################             处理器　　: 　Intel Core i9-9900K 3.60GHz x (16)
     ####################              内存　　　: 　16 GB ( G.Skill DDR4 3200MHz x 2 )
     ####################              磁盘　　　: 　SamSung SSD 970 EVO Plus 500GB
@@ -31,8 +31,8 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.7.1
-    - MacOS: 11.4(Big Sur)
+    - OpenCore: 0.7.2
+    - MacOS: 11.5.1(Big Sur)
 
 - Prerequisites
 
