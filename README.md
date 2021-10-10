@@ -31,7 +31,7 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.7.3
+    - OpenCore: 0.7.4
     - MacOS: 11.6(Big Sur)
 
 - Prerequisites
