@@ -66,3 +66,9 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 - USB Mapping
 
   ![USB Mapping](./usbMap/USB_definition.png)
+
+
+## Theme
+
+- [Acidanthera's theme](https://github.com/acidanthera/OcBinaryData/tree/master/Resources)
+- [chris1111's theme](https://github.com/chris1111/My-Simple-OC-Themes)
