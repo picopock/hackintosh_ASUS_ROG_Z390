@@ -27,13 +27,13 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
 > Note: Backup your system before do anything.
 
-> Note: Wifi is not available when upgrade to Monterey and the time of booting is too long.
+> Note: Wifi is not available when upgrade to Monterey and maybe the time of booting is too long.
 
 - Info
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.7.4
+    - OpenCore: 0.7.5
     - MacOS: 12.0.1(Monterey)
 
 - Prerequisites
