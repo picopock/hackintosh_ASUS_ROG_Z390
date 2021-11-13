@@ -27,7 +27,7 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
 > Note: Backup your system before do anything.
 
-> Note: Wifi is not available when upgrade to Monterey and maybe the time of booting is too long.
+> Note: The version of Intel Wifi driver only support for Monterey.
 
 - Info
 
