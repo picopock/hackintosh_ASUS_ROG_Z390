@@ -72,3 +72,5 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
 - [Acidanthera's theme](https://github.com/acidanthera/OcBinaryData/tree/master/Resources)
 - [chris1111's theme](https://github.com/chris1111/My-Simple-OC-Themes)
+
+## [UHD630 FrameBuffer Patch](./frameBufferPatch.md)
