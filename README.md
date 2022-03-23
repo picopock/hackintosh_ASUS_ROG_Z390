@@ -1,17 +1,17 @@
 # hackintosh-ASUS-ROG-STRIX-Z390-E-GAMING
 
-![monterey 12.1](./monterey.png)
+![monterey 12.3](./monterey.png)
 
 ## System Information
 
-                                      Azrael’s iMac iMac19,1
+                                      Azrael’s iMac iMac19.1
                                       ----------------------------------------------
                                       主板型号　: 　ASUS ROG STRIX Z390-E GAMING
-                 ###                  操作系统　: 　12.2.1 21D62
-               ####                   内核版本　: 　Darwin 21.3.0
-               ###                    开机时间　: 　108 minutes
+                 ###                  操作系统　: 　12.3 21E230
+               ####                   内核版本　: 　Darwin 21.4.0
+               ###                    开机时间　: 　56 minutes
        #######    #######             Shell　　: 　/bin/zsh
-     ######################           当前时间　: 　2022-02-13 13:45:08
+     ######################           当前时间　: 　2022-03-23 13:45:08
     #####################             处理器　　: 　Intel Core i9-9900K 3.60GHz x (16)
     ####################              内存　　　: 　16 GB ( G.Skill DDR4 3200MHz x 2 )
     ####################              磁盘　　　: 　SamSung SSD 970 EVO Plus 500GB
@@ -27,14 +27,12 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
 > Note: Backup your system before do anything.
 
-> Note: The version of Intel Wifi driver only support for Monterey.
-
 - Info
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.7.8
-    - MacOS: 12.2.1(Monterey)
+    - OpenCore: 0.7.9
+    - MacOS: 12.3(Monterey)
 
 - Prerequisites
 
