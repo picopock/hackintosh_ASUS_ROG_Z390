@@ -31,7 +31,7 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.8.0
+    - OpenCore: 0.8.2
     - MacOS: 12.4(Monterey)
 
 - Prerequisites
