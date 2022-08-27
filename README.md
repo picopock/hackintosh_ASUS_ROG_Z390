@@ -1,24 +1,24 @@
 # hackintosh-ASUS-ROG-STRIX-Z390-E-GAMING
 
-![monterey 12.4](./monterey.png)
+![monterey 12.5.1](./monterey.png)
 
 ## System Information
 
                                       Azrael’s iMac iMac19.1
                                       ----------------------------------------------
                                       主板型号　: 　ASUS ROG STRIX Z390-E GAMING
-                 ###                  操作系统　: 　12.4 21F79
-               ####                   内核版本　: 　Darwin 21.5.0
-               ###                    开机时间　: 　13 minutes
+                 ###                  操作系统　: 　12.5.1 21G83
+               ####                   内核版本　: 　Darwin 21.6.0
+               ###                    开机时间　: 　53 minutes
        #######    #######             Shell　　: 　/bin/zsh
-     ######################           当前时间　: 　2022-05-23 23:45:08
+     ######################           当前时间　: 　2022-08-27 12:08:08
     #####################             处理器　　: 　Intel Core i9-9900K 3.60GHz x (16)
     ####################              内存　　　: 　16 GB ( G.Skill DDR4 3200MHz x 2 )
     ####################              磁盘　　　: 　SamSung SSD 970 EVO Plus 500GB
     #####################             网卡　　　: 　Intel Wireless-AC 9560
      ######################           当前终端　: 　xterm-256color by iTerm.app
       ####################            显卡设备　: 　Intel UHD Graphics 630 / VRAM (Dynamic, Max): 2048 MB
-        ################              主显示器　: 　Dell DELA0EC DELL U2718Q ( 27.7 )
+        ################              主显示器　: 　Dell DELA0EC DELL U2723QE ( 27.7 )
          ####     #####               声卡　　　: 　Intel High Definition Audio Controller
 
 ## OpenCore Bootloader
@@ -31,8 +31,8 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.8.2
-    - MacOS: 12.4(Monterey)
+    - OpenCore: 0.8.3
+    - MacOS: 12.5.1(Monterey)
 
 - Prerequisites
 
