@@ -1,17 +1,17 @@
 # hackintosh-ASUS-ROG-STRIX-Z390-E-GAMING
 
-![monterey 12.5.1](./monterey.png)
+![ventura 13.0.1](./ventura.png)
 
 ## System Information
 
                                       Azrael’s iMac iMac19.1
                                       ----------------------------------------------
                                       主板型号　: 　ASUS ROG STRIX Z390-E GAMING
-                 ###                  操作系统　: 　12.5.1 21G83
-               ####                   内核版本　: 　Darwin 21.6.0
-               ###                    开机时间　: 　53 minutes
+                 ###                  操作系统　: 　13.0.1 22A400
+               ####                   内核版本　: 　Darwin 22.1.0
+               ###                    开机时间　: 　36 minutes
        #######    #######             Shell　　: 　/bin/zsh
-     ######################           当前时间　: 　2022-08-27 12:08:08
+     ######################           当前时间　: 　2022-11-22 23:06:08
     #####################             处理器　　: 　Intel Core i9-9900K 3.60GHz x (16)
     ####################              内存　　　: 　16 GB ( G.Skill DDR4 3200MHz x 2 )
     ####################              磁盘　　　: 　SamSung SSD 970 EVO Plus 500GB
@@ -26,13 +26,15 @@
 This EFI is configurated according to [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
 
 > Note: Backup your system before do anything.
+>
+> Note: Turn off the WIFI on Ventura, it's will cause system reboot.
 
 - Info
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.8.3
-    - MacOS: 12.5.1(Monterey)
+    - OpenCore: 0.8.6
+    - MacOS: 13.0.1(Ventura)
 
 - Prerequisites
 
