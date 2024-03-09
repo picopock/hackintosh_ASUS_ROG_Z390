@@ -33,8 +33,8 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.9.4
-    - MacOS: 13.4(Ventura)
+    - OpenCore: 0.9.8
+    - MacOS: 13.6(Ventura)
 
 - Prerequisites
 
