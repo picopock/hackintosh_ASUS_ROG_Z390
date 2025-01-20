@@ -1,17 +1,17 @@
 # hackintosh-ASUS-ROG-STRIX-Z390-E-GAMING
 
-![ventura 13.4](./ventura.png)
+![sequoia 15.2](./sequoia.png)
 
 ## System Information
 
                                       Azrael’s iMac iMac19.1
                                       ----------------------------------------------
                                       主板型号　: 　ASUS ROG STRIX Z390-E GAMING
-                 ###                  操作系统　: 　13.4 22F66
-               ####                   内核版本　: 　Darwin 22.5.0
-               ###                    开机时间　: 　54 minutes
+                 ###                  操作系统　: 　15.2 24C101
+               ####                   内核版本　: 　Darwin 24.2.0
+               ###                    开机时间　: 　32 minutes
        #######    #######             Shell　　: 　/bin/zsh
-     ######################           当前时间　: 　2023-06-16 19:57:26
+     ######################           当前时间　: 　2025-01-20 21:22:36
     #####################             处理器　　: 　Intel Core i9-9900K 3.60GHz x (16)
     ####################              内存　　　: 　16 GB ( G.Skill DDR4 3200MHz x 2 )
     ####################              磁盘　　　: 　SamSung SSD 970 EVO Plus 500GB
@@ -28,13 +28,15 @@ This EFI is configurated according to [OpenCore Install Guide](https://dortania.
 > Note: Backup your system before do anything.
 >
 > Note: Be sure to copy the entire folder
+>
+> Note: In order to use the WIFI function, you need to install [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases) and set it to start at boot.
 
 - Info
 
   - version
     - BIOS: 1704
-    - OpenCore: 0.9.3
-    - MacOS: 13.4(Ventura)
+    - OpenCore: 1.0.3
+    - MacOS: 15.2(Sequoia)
 
 - Prerequisites
 
