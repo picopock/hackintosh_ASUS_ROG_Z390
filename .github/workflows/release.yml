@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   release:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -22,8 +22,8 @@ jobs:
       - name: Package files
         run: |
           mkdir hackintosh-EFI-ASUS-ROG-Z390-${{ steps.get_version.outputs.VERSION }}
-          tar -zcvf hackintosh-EFI-ASUS-ROG-Z390-${{ steps.get_version.outputs.VERSION }}.tar.gz ./EFI-OpenCore ./usbMap ./frameBufferPatch.md ./README.md ./smalltree.png ./ventura.png
-          zip -r hackintosh-EFI-ASUS-ROG-Z390-${{ steps.get_version.outputs.VERSION }}.zip ./EFI-OpenCore ./usbMap ./frameBufferPatch.md ./README.md ./smalltree.png ./ventura.png
+          tar -zcvf hackintosh-EFI-ASUS-ROG-Z390-${{ steps.get_version.outputs.VERSION }}.tar.gz ./EFI-OpenCore ./usbMap ./frameBufferPatch.md ./README.md ./smalltree.png ./sequoia.png
+          zip -r hackintosh-EFI-ASUS-ROG-Z390-${{ steps.get_version.outputs.VERSION }}.zip ./EFI-OpenCore ./usbMap ./frameBufferPatch.md ./README.md ./smalltree.png ./sequoia.png
 
       - name: Release
         uses: softprops/action-gh-release@v1
